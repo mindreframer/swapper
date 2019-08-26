@@ -39,3 +39,8 @@ be found at [https://hexdocs.pm/swapper](https://hexdocs.pm/swapper).
 - [Http Mock Pal](https://github.com/matteosister/http_mock_pal) - An elixir app to start up a mock server to act like external services you are trying to test or mock.
 - [ExVCR](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR.
 - [Bypass](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return prebaked responses to client requests.
+- [FakeServer](https://github.com/bernardolins/fake_server) - FakeServer integrates with ExUnit to make external APIs testing simpler
+- [Bookish spork](https://github.com/tank-bohr/bookish_spork) - Erlang library for testing http requests
+
+## Alternatives - Logging
+- [ExLoggerMock](https://github.com/lucas-nelson/ex_logger_mock) - A mock logging backend for Elixir unit tests
