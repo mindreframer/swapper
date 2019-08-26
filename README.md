@@ -38,3 +38,4 @@ be found at [https://hexdocs.pm/swapper](https://hexdocs.pm/swapper).
 - [Mockingbird](https://github.com/Driftrock/mockingbird) - A set of helpers to create http-aware modules that are easy to test.
 - [Http Mock Pal](https://github.com/matteosister/http_mock_pal) - An elixir app to start up a mock server to act like external services you are trying to test or mock.
 - [ExVCR](https://github.com/parroty/exvcr) - HTTP request/response recording library for elixir, inspired by VCR.
+- [Bypass](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return prebaked responses to client requests.
